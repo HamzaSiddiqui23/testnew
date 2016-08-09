@@ -4,6 +4,7 @@ wowz
 
 <<<<<<< HEAD
 commit in another branch
+<<<<<<< Updated upstream
 =======
 
 
@@ -13,3 +14,7 @@ commit in another branch
 
 yayayayaya
 >>>>>>> hamzasbranch
+=======
+
+going to push this
+>>>>>>> Stashed changes
